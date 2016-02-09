@@ -3,11 +3,11 @@ package studienarbeit.beta02_notfallapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Button1 extends AppCompatActivity {
+public class GPS extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_button1);
+        setContentView(R.layout.activity_GPS);
     }
 }

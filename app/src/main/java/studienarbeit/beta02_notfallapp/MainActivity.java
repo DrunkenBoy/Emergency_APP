@@ -14,23 +14,23 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Button1(View view) {
-        Intent intent1 = new Intent(getApplicationContext(),Button1.class);
+        Intent intent1 = new Intent(getApplicationContext(),GPS.class);
         startActivity(intent1);
     }
     public void Button2(View view) {
-        Intent intent2 = new Intent(getApplicationContext(),Button2.class);
+        Intent intent2 = new Intent(getApplicationContext(),Anruf.class);
         startActivity(intent2);
     }
     public void Button3(View view) {
-        Intent intent3 = new Intent(getApplicationContext(),Button3.class);
+        Intent intent3 = new Intent(getApplicationContext(),Sprachnachricht.class);
         startActivity(intent3);
     }
     public void Button4(View view) {
-        Intent intent4 = new Intent(getApplicationContext(),Button4.class);
+        Intent intent4 = new Intent(getApplicationContext(),Heimroute.class);
         startActivity(intent4);
     }
     public void Button5(View view) {
-        Intent intent5 = new Intent(getApplicationContext(),Button5.class);
+        Intent intent5 = new Intent(getApplicationContext(),Bildaufnahme.class);
         startActivity(intent5);
     }
     public void Einstellungen(View view) {

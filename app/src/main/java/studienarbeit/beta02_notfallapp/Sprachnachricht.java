@@ -3,11 +3,11 @@ package studienarbeit.beta02_notfallapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Button3 extends AppCompatActivity {
+public class Sprachnachricht extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_button3);
+        setContentView(R.layout.activity_Sprachnachricht);
     }
 }

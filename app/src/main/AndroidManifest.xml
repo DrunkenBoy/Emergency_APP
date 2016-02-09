@@ -20,12 +20,12 @@
             android:name="android.hardware.camera"
             android:required="true" />
 
-        <activity android:name=".Button1" />
-        <activity android:name=".Button2" />
-        <activity android:name=".Button3" />
-        <activity android:name=".Button4" />
+        <activity android:name=".GPS" />
+        <activity android:name=".Anruf" />
+        <activity android:name=".Sprachnachricht" />
+        <activity android:name=".Heimroute" />
         <activity android:name=".Einstellungen" />
-        <activity android:name=".Button5"></activity>
+        <activity android:name=".Bildaufnahme"></activity>
     </application>
 
 </manifest>
