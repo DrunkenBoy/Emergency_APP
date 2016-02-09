@@ -17,7 +17,7 @@
         android:id="@+id/editText"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
-        android:hint="Handynummer der Kontaktperson"
+        android:hint="@string/Handynummer"
         android:layout_toStartOf="@+id/button6" />
 
     <Button

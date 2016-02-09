@@ -4,5 +4,11 @@
     <string name="button_2">Freund anrufen</string>
     <string name="button_3">Sprachnachricht senden</string>
     <string name="button_4">Heimroute starten</string>
-    <string name="button_5"></string>
+    <string name="button_5">Bild aufnehmen</string>
+    <string name="Text1">Über diesen Button wird ein GPS-Signal mit einer vorher eingestellten Person geteilt.</string>
+    <string name="Text2">In dieser Activity wird der Freund, die Freundin angerufen, um sie nach Hilfe zu fragen.</string>
+    <string name="Text3">In dieser Activity wird eine Sprachnachricht aufgenommen, und ggf. weiterverarbeitet um seinen aktuellen Zustand zu speichern.</string>
+    <string name="Text4">In dieser Activity soll die Heimroute via Google Maps gestartet werden.</string>
+    <string name="Text5">In dieser Activity kann ein Beweisfoto aufgenommen werden.</string>
+    <string name="Handynummer">Handynummer der Kontaktperson</string>
 </resources>

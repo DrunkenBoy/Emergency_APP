@@ -22,12 +22,16 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent2);
     }
     public void Button3(View view) {
-        Intent intent3 = new Intent(getApplicationContext(),Button2.class);
+        Intent intent3 = new Intent(getApplicationContext(),Button3.class);
         startActivity(intent3);
     }
     public void Button4(View view) {
-        Intent intent4 = new Intent(getApplicationContext(),Button2.class);
+        Intent intent4 = new Intent(getApplicationContext(),Button4.class);
         startActivity(intent4);
+    }
+    public void Button5(View view) {
+        Intent intent5 = new Intent(getApplicationContext(),Button5.class);
+        startActivity(intent5);
     }
     public void Einstellungen(View view) {
         Intent intent4 = new Intent(getApplicationContext(),Einstellungen.class);
